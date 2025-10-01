@@ -7,7 +7,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **Official PyTorch implementation of "BARE: Boundary-Aware with Resolution Enhancement for Tree Crown Delineation"**  
-*Accepted at Australasian Data Mining Conference (AusDM) 2025*
+*Accepted at The 23rd Australasian Data Science and Machine Learning Conference (AusDM'25)*
 
 > **Authors:** Attavit Wilaiwongsakul, Bin Liang, Wenfeng Jia, Bryan Zheng, Fang Chen  
 > **Affiliation:** University of Technology Sydney, Charles Sturt University
@@ -96,7 +96,7 @@ python main.py train --output_dir ./training_output
 # Training with specific parameters
 python main.py train \
     --dataset_name restor/tcd \
-    --model_name nvidia/segformer-b0-finetuned-ade-512-512 \
+    --model_name nvidia/mit-b5 \
     --output_dir ./my_trained_model \
     --num_epochs 15 \
     --learning_rate 6e-5 \
@@ -323,7 +323,7 @@ bare/
 ├── inspect_dataset.py         # Dataset inspection tools
 ├── requirements.txt           # Python dependencies
 ├── bare_pipeline.ipynb        # Interactive training notebook
-├── visualize_validation_predictions_enhanced.ipynb  # Visualization notebook
+├── visualize_validation.ipynb # Visualization notebook
 ├── README.md                  # This file
 ├── DOCUMENTATION.md           # Detailed technical documentation
 ├── CONTRIBUTING.md            # Contribution guidelines
