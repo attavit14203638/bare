@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Utility functions for TCD-SegFormer model.
+Utility functions for BARE model.
 
 This module provides common utility functions used throughout the codebase,
 including random seed setting, logging setup, and parameter counting.
@@ -166,7 +166,7 @@ def get_logger() -> logging.Logger:
     This is useful when a function needs a logger but doesn't have one passed as a parameter.
     
     Returns:
-        The standardized TCD-SegFormer logger
+        The standardized BARE logger
     """
     return logging.getLogger(LOGGER_NAME)
 

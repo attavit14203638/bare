@@ -359,7 +359,7 @@ This enables integration with larger ML pipelines or custom workflows.
 
 ### 5.3 Jupyter Notebook
 
-The `tcd_segformer_pipeline.ipynb` notebook provides an interactive interface for:
+The `bare_pipeline.ipynb` notebook provides an interactive interface for:
 
 - Dataset exploration and visualization
 - Model training with real-time monitoring

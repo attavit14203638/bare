@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Class weight computation utilities for TCD-SegFormer model.
+Class weight computation utilities for BARE model.
 
 This module provides a robust function for computing class weights based on
 actual pixel distribution across the entire dataset, ensuring accurate handling

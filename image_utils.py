@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Image processing utilities for TCD-SegFormer model.
+Image processing utilities for BARE model.
 
 This module consolidates all image processing functionality to avoid
 code duplication and ensure consistent handling of images and masks.

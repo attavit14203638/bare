@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Checkpoint management utilities for TCD-SegFormer model.
+Checkpoint management utilities for BARE model.
 
 This module provides functions for saving, loading, and managing model checkpoints
 to ensure consistent handling across the codebase.

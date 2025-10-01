@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Cross-validation utilities for TCD-SegFormer model.
+Cross-validation utilities for BARE model.
 
 This module provides functions for performing k-fold cross-validation
 to evaluate model performance with robust metrics.

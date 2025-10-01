@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Custom exceptions for TCD-SegFormer.
+Custom exceptions for BARE.
 
 This module defines custom exceptions to provide consistent
 error handling throughout the codebase.
@@ -11,7 +11,7 @@ error handling throughout the codebase.
 from utils import LOGGER_NAME
 
 class TCDSegformerError(Exception):
-    """Base exception for all TCD-SegFormer errors."""
+    """Base exception for all BARE errors."""
     pass
 
 

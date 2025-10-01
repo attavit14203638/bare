@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Evaluation metrics for TCD-SegFormer model.
+Evaluation metrics for BARE model.
 
 This module centralizes the computation of evaluation metrics to ensure
 consistent results across different parts of the codebase.

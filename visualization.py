@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Visualization utilities for TCD-SegFormer model.
+Visualization utilities for BARE model.
 
 This module provides functions for visualizing segmentation results,
 training progress, model confidence, class activation maps, and other aspects

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Improved dataset handling for TCD-SegFormer model.
+Improved dataset handling for BARE model.
 
 This module provides a more robust and consistent approach to dataset
 loading, processing, and validation, centralizing functionality that was
